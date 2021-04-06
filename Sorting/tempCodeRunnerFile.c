@@ -1,0 +1,1 @@
+ printf("X: %d Y: %d\n", tempX[count-1], tempY[count-1]);
