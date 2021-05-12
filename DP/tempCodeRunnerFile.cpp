@@ -1,0 +1,1 @@
+findPost(mid_idx + 1, left_e );
