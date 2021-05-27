@@ -63,6 +63,10 @@
         "typeinfo": "cpp",
         "stack": "cpp",
         "deque": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "__tree": "cpp",
+        "clocale": "cpp",
+        "map": "cpp",
+        "unordered_set": "cpp"
     }
 }

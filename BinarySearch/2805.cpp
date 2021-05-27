@@ -40,7 +40,7 @@ int main() {
         else{
             last = mid -1;
         }
-        // cout << "mid : " << mid << " start: " << start << " end : " << last << " len : " << len << '\n';
+        cout << "mid : " << mid << " start: " << start << " end : " << last << " len : " << len << '\n';
 
     }
     cout << last;

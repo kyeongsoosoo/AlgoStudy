@@ -1,0 +1,1 @@
+cout << tmp_a << " arr " << test  <<  '\n';
